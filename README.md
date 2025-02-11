@@ -18,3 +18,5 @@ Pivot Tables & Charts
 Helps hospital administrators monitor emergency room efficiency.
 Identifies patient trends for resource allocation & staffing.
 Tracks patient satisfaction and wait times for service improvement.
+
+![Screenshot 2025-02-11 121753](https://github.com/user-attachments/assets/745f2d9a-ce33-4618-8089-6590da33bcad)
